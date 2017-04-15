@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
+  "author": "Art Yabkevich",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.5.6",

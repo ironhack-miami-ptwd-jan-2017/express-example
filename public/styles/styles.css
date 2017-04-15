@@ -1,4 +1,21 @@
 body {
-  background-color: indigo;
-  color: white;
+  background-color: red;
+  color: yellow;
+  text-align: center;
+}
+
+.about {
+  position: relative;
+  left : 0px;
+  top: 0px;
+  font-size: 30px;
+  color: yellow;
+}
+
+.pics {
+  position: relative;
+  left : 10px;
+  top: 0px;
+  font-size: 30px;
+  color: yellow;
 }
