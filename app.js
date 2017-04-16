@@ -49,7 +49,12 @@ app.get('/about', (req, res, next) => {
     // views/about.ejs
     // (magically knows to look inside views/)
 });
-
+app.get('/gallery', (req, res, next) => {
+  res.render('gallery.ejs');
+    //          |
+    // views/about.ejs
+    // (magically knows to look inside views/)
+});
 
   // http://localhost:3000
   //                   |
